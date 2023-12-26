@@ -1,5 +1,5 @@
 name: frist_workflow
-on: workflow_call
+on: workflow_run
 jobs:
   job1:
       runs-on: ubuntu-latest
